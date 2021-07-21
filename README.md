@@ -1,7 +1,7 @@
 # ForgeRock IDM TypeScript Types
 [![npm version](https://img.shields.io/npm/v/@pearj/idm-ts-types.svg?style=flat)](https://www.npmjs.com/package/@pearj/idm-ts-types)
 [![GitHub License](https://img.shields.io/github/license/pearj/idm-ts-types.svg)](https://github.com/pearj/idm-ts-types/blob/master/LICENSE)
-[![Build Status](https://travis-ci.org/pearj/idm-ts-types.svg?branch=master)](https://travis-ci.org/pearj/idm-ts-types)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/pearj/idm-ts-types/Release)
 [![type-coverage](https://img.shields.io/badge/dynamic/json.svg?label=type-coverage&prefix=%E2%89%A5&suffix=%&query=$.typeCoverage.atLeast&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fpearj%2Fidm-ts-types%2Fmaster%2Fpackage.json)](https://github.com/plantain-00/type-coverage)
 [![Known Vulnerabilities](https://snyk.io/test/github/pearj/idm-ts-types/badge.svg?targetFile=package.json)](https://snyk.io/test/github/pearj/idm-ts-types?targetFile=package.json)
 * TypeScript Support – Write your IDM JavaScript code in TypeScript which has modern language features while still being compatible with Rhino, the JavaScript engine that IDM uses.
