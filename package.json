@@ -51,7 +51,7 @@
     "gen-idm-ts-types": "bin/gen-idm-ts-types.js"
   },
   "typeCoverage": {
-    "atLeast": 98
+    "atLeast": 79
   },
   "types": "./lib/idm-globals.d.ts",
   "publishConfig": {
