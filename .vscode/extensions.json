@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    // Allows Yarn 2 to work
+    "arcanis.vscode-zipfs",
+    "esbenp.prettier-vscode"
+  ]
+}
