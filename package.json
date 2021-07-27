@@ -57,5 +57,10 @@
   "publishConfig": {
     "access": "public"
   },
-  "packageManager": "yarn@2.4.2"
+  "packageManager": "yarn@2.4.2",
+  "files": [
+    "bin/",
+    "lib/",
+    "README.md"
+  ]
 }
